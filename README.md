@@ -1,6 +1,6 @@
 # VTCG Autobattler – spielbarer Prototyp
 
-Hier liegt nur die fertige Web-Version des Prototyps (V23). Spielen im Browser, am besten am Handy im Hochformat:
+Hier liegt nur die fertige Web-Version des Prototyps (V24). Spielen im Browser, am besten am Handy im Hochformat:
 
 **https://ofdey.github.io/VTCG-Play/**
 
